@@ -7,7 +7,7 @@ Examples of using Evidently to evaluate, test and monitor ML models.
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
 How to create ML model cards |[Jupyter notebook](Model_card_classification.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/ml-model-card-tutorial) | Evidently team | `reports`, `data_quality`, `model_quality`, `classification`
-How to monitor NLP models in production (includes model training) | [Colab](https://colab.research.google.com/drive/15ON-Ub_1QUYkDbdLpyt-XyEx34MD28E1) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-detecting-drift-in-text-data) |  Evidently team | `reports`, `text_data`, `nlp`, `data_drift`, `text descriptors`
+How to monitor NLP models in production | [Colab](https://colab.research.google.com/drive/15ON-Ub_1QUYkDbdLpyt-XyEx34MD28E1) - with model training | [Tutorial](https://www.evidentlyai.com/blog/tutorial-detecting-drift-in-text-data) |  Evidently team | `reports`, `text_data`, `nlp`, `data_drift`, `text descriptors`
 
 ## Integrations
 
