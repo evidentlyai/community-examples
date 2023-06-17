@@ -12,6 +12,6 @@ How to create ML model cards |[Jupyter notebook](Model_card_classification.ipynb
 
 Title | Code | Blog | Tags 
 --- | --- | --- | --- 
-How to send email alerts on drift Evidently and AWS SES |[Example repository](https://github.com/evidentlyai/aws_alerting) | [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) | `data drift'
+How to send email alerts on drift Evidently and AWS SES |[Example repository](https://github.com/evidentlyai/aws_alerting) | [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) | `data drift`
 
 ## Metrics
