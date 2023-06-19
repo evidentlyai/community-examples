@@ -30,3 +30,6 @@ How to send email alerts on drift Evidently and AWS SES |[Example repo](https://
 ## Events
 
 Examples from specific events, meetups or workshops using Evidently.
+
+Title | Code | Video | Author | Tags 
+--- | --- | --- | --- | --- 
