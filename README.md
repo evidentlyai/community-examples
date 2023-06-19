@@ -6,6 +6,8 @@ Examples of using Evidently to evaluate, test and monitor ML models.
 
 Code tutorials showing specific use cases, Evidently functionality or example dataset analysis. Come with blog posts or detailed explanations. 
 
+If you are new to Evidently, explore the official [Getting Started tutorial](https://docs.evidentlyai.com/get-started/tutorial).
+
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
 How to create ML model cards |[Jupyter notebook](tutorials/How_to_create_an_ML_model_card.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/ml-model-card-tutorial) | Evidently team | `reports`, `data_quality`, `model_quality`, `classification`
@@ -19,6 +21,8 @@ Miscellaneous code examples of using Evidently, implementing custom metrics, etc
 Title | Code | Author | Tags 
 --- |  --- | --- | --- 
 
+See entry-level examples with all Evidently metrics and tests [Sample notebooks folder](https://github.com/evidentlyai/evidently/tree/main/examples/sample_notebooks) in main Evidently repository.
+
 ## Integrations
 
 Examples of implementing Evidently with other tools.
@@ -26,6 +30,8 @@ Examples of implementing Evidently with other tools.
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
 How to send email alerts on drift Evidently and AWS SES |[Example repo](https://github.com/evidentlyai/aws_alerting) |  [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) |  [Marcello Victorino](https://www.github.com/marcellovictorino) | `data drift`
+
+See core example deployment blueprints in the [Integrations folder](https://github.com/evidentlyai/evidently/tree/main/examples/integrations) in main Evidently repository.
 
 ## Events
 
