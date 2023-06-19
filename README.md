@@ -21,7 +21,7 @@ Title | Code | Author | Tags
 
 ## Integrations
 
-Example of implementing Evidently with other tools.
+Examples of implementing Evidently with other tools.
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
