@@ -4,7 +4,7 @@ Examples of using Evidently to evaluate, test and monitor ML models.
 
 ## Tutorials 
 
-Tutorials showing specific use case, Evidently functionality or example dataset analysis. Come with blog posts or detailed explanations. 
+Tutorials showing specific use cases, Evidently functionality or example dataset analysis. Come with blog posts or detailed explanations. 
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
@@ -14,7 +14,7 @@ How to monitor NLP models in production | [Colab](https://colab.research.google.
 
 ## Examples
 
-Miscellaneous example of using Evidently, implementing custom metrics, etc.
+Miscellaneous examples of using Evidently, implementing custom metrics, etc.
 
 Title | Code | Author | Tags 
 --- |  --- | --- | --- 
