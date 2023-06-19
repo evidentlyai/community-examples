@@ -21,7 +21,7 @@ Miscellaneous code examples of using Evidently, implementing custom metrics, etc
 Title | Code | Author | Tags 
 --- |  --- | --- | --- 
 
-See entry-level examples with all Evidently metrics and tests [Sample notebooks folder](https://github.com/evidentlyai/evidently/tree/main/examples/sample_notebooks) in main Evidently repository.
+See entry-level [sample notebooks](https://github.com/evidentlyai/evidently/tree/main/examples/sample_notebooks) with all Evidently metrics and tests in main Evidently repository.
 
 ## 🏗️ Integrations
 
@@ -31,7 +31,7 @@ Title | Code | Blog | Author | Tags
 --- | --- | --- | --- | --- 
 How to send email alerts on drift Evidently and AWS SES |[Example repo](https://github.com/evidentlyai/aws_alerting) |  [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) |  [Marcello Victorino](https://www.github.com/marcellovictorino) | `data drift`
 
-See core deployment blueprints in the [Integrations folder](https://github.com/evidentlyai/evidently/tree/main/examples/integrations) in main Evidently repository.
+See core deployment blueprints in the [integrations folder](https://github.com/evidentlyai/evidently/tree/main/examples/integrations) in main Evidently repository.
 
 ## 🎥 Events
 
