@@ -14,6 +14,7 @@ How to create ML model cards |[Jupyter notebook](tutorials/How_to_create_an_ML_m
 How to use descriptors to monitor text data | [Jupyter notebook](tutorials/How_to_add_a_custom_text_descriptor.ipynb) - with model training | [Tutorial](https://www.evidentlyai.com/blog/unstructured-data-monitoring)|  Evidently team | `reports`, `test_suites`, `text_data`, `nlp`, `data_drift`, `text_descriptors`
 How to monitor NLP models in production | [Colab](https://colab.research.google.com/drive/15ON-Ub_1QUYkDbdLpyt-XyEx34MD28E1) - with model training | [Tutorial](https://www.evidentlyai.com/blog/tutorial-detecting-drift-in-text-data) |  Evidently team | `reports`, `text_data`, `nlp`, `data_drift`, `text_descriptors`,  `classification`
 
+See more [data stories](https://github.com/evidentlyai/evidently/tree/main/examples/data_stories) in main Evidently repository.
 
 ## 💻 Examples
 
