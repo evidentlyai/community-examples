@@ -10,7 +10,9 @@ If you are new to Evidently, explore the official [Quickstart for Tests and Repo
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
-How to monitor LLM testing results | [Jupyter notebook](tutorials/How_to_track_regression_testing_results.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
+How to create an LLM judge | [Jupyter notebook](tutorials/Regression_testing_with_debugging.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
+How to run regression testing and debug failed rows | [Jupyter notebook](tutorials/LLM_as_a_judge_tutorial.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
+How to monitor LLM testing results | [Jupyter notebook](tutorials/How_to_track_regression_testing_results.ipynb) |   [Tutorial](https://www.evidentlyai.com/blog/llm-testing-tutorial) | Evidently team | `test_suites`, `llm`, `text_descriptors`
 How to run regression testing for LLMs | [Jupyter notebook](tutorials/How_to_run_regression_testing_for_LLMs.ipynb) |  [Tutorial](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial) | Evidently team | `test_suites`, `llm`, `text_descriptors`
 How to create ML model cards |[Jupyter notebook](tutorials/How_to_create_an_ML_model_card.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/ml-model-card-tutorial) | Evidently team | `reports`, `data_quality`, `model_quality`, `classification`
 How to use descriptors to monitor text data | [Jupyter notebook](tutorials/How_to_add_a_custom_text_descriptor.ipynb) - with model training | [Tutorial](https://www.evidentlyai.com/blog/unstructured-data-monitoring)|  Evidently team | `reports`, `test_suites`, `text_data`, `nlp`, `data_drift`, `text_descriptors`
