@@ -21,8 +21,6 @@ How to break a model in 20 days. A tutorial on production model analytics. |[Jup
 How to compare models pre-deployment. |[Jupyter notebook](tutorials/ibm_hr_attrition_model_validation.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-2-model-evaluation-hr-attrition) | Evidently team | `reports`, `model_quality`, `classification`
 How to design ML monitoring. Tutorial from CS 329S: Machine Learning Systems Design.| [Jupyter notebook](tutorials/bicycle_demand_monitoring_setup.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-evidently-ml-monitoring-cs329s) | Evidently team | `reports`, `data_drift`, `model_quality`, `regression`
 
-See more [data stories](https://github.com/evidentlyai/evidently/tree/main/examples/data_stories) in the main Evidently repository.
-
 ## 💻 Examples
 
 Code examples and how-tos on using Evidently and specific features.
