@@ -10,7 +10,7 @@ If you are new to Evidently, explore the official [Quickstarts](https://docs.evi
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
-How to run and debug LLM regression tests | [Jupyter notebook](tutorials/Regression_testing_with_debugging.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
+How to run and debug LLM regression tests | [Jupyter notebook](tutorials/Regression_testing_with_debugging_updated.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
 How to create an LLM judge | [Jupyter notebook](tutorials/LLM_as_a_judge_tutorial_updated.ipynb) |  - | Evidently team |  `llm`, `text_descriptors`
 How to monitor LLM testing results | [Jupyter notebook](tutorials/How_to_track_regression_testing_results.ipynb) |   [Tutorial](https://www.evidentlyai.com/blog/llm-testing-tutorial) | Evidently team | `test_suites`, `llm`, `text_descriptors`
 How to run regression testing for LLMs | [Jupyter notebook](tutorials/How_to_run_regression_testing_for_LLMs.ipynb) |  [Tutorial](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial) | Evidently team | `test_suites`, `llm`, `text_descriptors`
