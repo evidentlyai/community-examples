@@ -1,4 +1,4 @@
-Miscellaneous examples of using Evidently.
+Miscellaneous community-contributed examples of using Evidently, without associated blogs or tutorials.
 
 ## 💻 Examples
 
