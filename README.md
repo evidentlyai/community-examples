@@ -31,19 +31,3 @@ See core deployment blueprints in the [integrations folder](https://github.com/e
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
 How to send email alerts on drift Evidently and AWS SES |[Example repo](https://github.com/evidentlyai/aws_alerting) |  [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) |  [Marcello Victorino](https://www.github.com/marcellovictorino) | `data drift`
-
-## 🎥 Events
-
-Examples from specific events, meetups or workshops using Evidently.
-
-Title | Code | Video | Author | Tags 
---- | --- | --- | --- | --- 
-
-## 📚 Blogs
-
-Blogs about Evidently, published on external platforms.
-
-Title | Blog | Author | Tags 
---- |  --- | --- | --- 
-
-See the official [Evidently blog](https://www.evidentlyai.com/blog) for more articles.
