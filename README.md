@@ -6,7 +6,7 @@ Examples of using Evidently to evaluate, test and monitor ML models.
 
 Code tutorials showing specific use cases, Evidently functionality or example dataset analysis. Come with blog posts or detailed explanations. 
 
-If you are new to Evidently, explore the official [Quickstarts](https://docs.evidentlyai.com/get-started).
+If you are new to Evidently, explore the official [Quickstarts](https://docs.evidentlyai.com/get-started) first.
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
