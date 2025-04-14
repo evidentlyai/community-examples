@@ -22,17 +22,6 @@ How to break a model in 20 days. A tutorial on production model analytics. |[Jup
 How to compare models pre-deployment. |[Jupyter notebook](tutorials/ibm_hr_attrition_model_validation.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-2-model-evaluation-hr-attrition) | Evidently team | `reports`, `model_quality`, `classification`
 How to design ML monitoring. Tutorial from CS 329S: Machine Learning Systems Design.| [Jupyter notebook](tutorials/bicycle_demand_monitoring_setup.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-evidently-ml-monitoring-cs329s) | Evidently team | `reports`, `data_drift`, `model_quality`, `regression`
 
-## 💻 Examples
-
-Code examples and how-tos on using Evidently and specific features.
-
-If you are new to Evidently, see the entry-level [sample notebooks](https://github.com/evidentlyai/evidently/tree/main/examples/sample_notebooks) with all Evidently metrics and tests.
-
-Title | Code | Author | Tags 
---- |  --- | --- | --- 
-How to convert raw text data to embeddings and evaluate data drift. | [Jupyter notebook](examples/how_to_run_drift_report_for_text_data.ipynb) | [Sangam SwadiK](https://github.com/SangamSwadiK) | `reports`, `text_data`, `nlp`, `data_drift`, `embeddings`
-Comparing data drift tests for different distributions types. | [Jupyter notebook](examples/comparing_custom_statest_with_classic_distributions.ipynb) | [Antonis Stellas](https://github.com/AntonisCSt) | `reports`, `data_drift`
-
 ## 🏗️ Integrations
 
 Examples of using Evidently with other tools.
