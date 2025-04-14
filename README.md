@@ -22,12 +22,3 @@ How to break a model in 20 days. A tutorial on production model analytics. |[Jup
 How to compare models pre-deployment. |[Jupyter notebook](tutorials/ibm_hr_attrition_model_validation.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-2-model-evaluation-hr-attrition) | Evidently team | `reports`, `model_quality`, `classification`
 How to design ML monitoring. Tutorial from CS 329S: Machine Learning Systems Design.| [Jupyter notebook](tutorials/bicycle_demand_monitoring_setup.ipynb) | [Tutorial](https://www.evidentlyai.com/blog/tutorial-evidently-ml-monitoring-cs329s) | Evidently team | `reports`, `data_drift`, `model_quality`, `regression`
 
-## 🏗️ Integrations
-
-Examples of using Evidently with other tools.
-
-See core deployment blueprints in the [integrations folder](https://github.com/evidentlyai/evidently/tree/main/examples/integrations) in main Evidently repository.
-
-Title | Code | Blog | Author | Tags 
---- | --- | --- | --- | --- 
-How to send email alerts on drift Evidently and AWS SES |[Example repo](https://github.com/evidentlyai/aws_alerting) |  [Tutorial](https://www.evidentlyai.com/blog/ml-monitoring-with-email-alerts-tutorial) |  [Marcello Victorino](https://www.github.com/marcellovictorino) | `data drift`
