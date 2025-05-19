@@ -13,6 +13,6 @@ Practical tutorials on evaluating large language systems.
 | **Tutorial: LLM Evaluation Methods** | Part 3 | Reference-free evaluation: text statistics, regex, ML models, LLM judges, and session-level evaluators. | [Open Notebook](LLMCourse_Tutorial_1_Intro_to_LLM_evals_methods.ipynb) | [Watch Video](https://www.youtube.com/watch?v=-zoIqOpt2DA&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: LLM as a Judge** | – | Creating and tuning LLM judges aligned with human preferences. | [Open Notebook](LLMCourse_Tutorial_2_LLM_as_a_judge.ipynb) | [Watch Video](https://www.youtube.com/watch?v=kP_aaFnXLmY&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: Clasification Evaluation** | – | Creating and evaluating LLMs and a simple predictive ML baseline on a multi-class classification task. | [Open Notebook](LLMCourse_Classification_Evals.ipynb) | [Watch Video](https://www.youtube.com/watch?v=Gl2X_o99gYM&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
-| **Tutorial: Content Generation with LLMs** | – | Using LLMs to write tweets and evaluating how engaging they are. Introduction to the concept of tracing. |- | - |
+| **Tutorial: Content Generation with LLMs** | – | Using LLMs to write tweets and evaluating how engaging they are. Introduction to the concept of tracing. |[Open Notebook](LLMCourse_Content_Generation_Evals.ipynb) | [Watch Video](https://www.youtube.com/watch?v=KhkiM9C0Qdg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 
 
