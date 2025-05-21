@@ -14,7 +14,7 @@ Practical tutorials on evaluating large language systems.
 | **Tutorial: LLM as a Judge** | – | Creating and tuning LLM judges aligned with human preferences. | [Open Notebook](LLMCourse_Tutorial_2_LLM_as_a_judge.ipynb) | [Watch Video](https://www.youtube.com/watch?v=kP_aaFnXLmY&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: Clasification Evaluation** | – | Creating and evaluating LLMs and a simple predictive ML baseline on a multi-class classification task. | [Open Notebook](LLMCourse_Classification_Evals.ipynb) | [Watch Video](https://www.youtube.com/watch?v=Gl2X_o99gYM&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: Content Generation with LLMs** | – | Using LLMs to write tweets and evaluating how engaging they are. Introduction to the concept of tracing. |[Open Notebook](LLMCourse_Content_Generation_Evals.ipynb) | [Watch Video](https://www.youtube.com/watch?v=KhkiM9C0Qdg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
-| **Intro to RAG evaluations** | – | How to evaluate RAG systems: retrieval, generation quality and synthetic data. | - | [Watch Video](https://www.youtube.com/watch?v=qI2qQfOG0Js&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
-| **Tutorial: RAG evaluations** | – | How to evaluate RAG systems: retrieval, generation quality and synthetic data. | |[Open Notebook](LLMCourse_RAG_Evals.ipynb)  | [Watch Video](https://www.youtube.com/watch?v=jckp5R09Afg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
+| **RAG evaluations: theory** | Part 1 | How to evaluate RAG systems: retrieval, generation quality and synthetic data. | - | [Watch Video](https://www.youtube.com/watch?v=qI2qQfOG0Js&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
+| **RAG evaluations: tutorial** | Part 2 | How to build a toy RAG application and evaluate correctness and faithfulness. |[Open Notebook](LLMCourse_RAG_Evals.ipynb)  | [Watch Video](https://www.youtube.com/watch?v=jckp5R09Afg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 
 
