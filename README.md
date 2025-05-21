@@ -1,12 +1,20 @@
 # Evidently community examples
 
-Examples of using Evidently to evaluate, test and monitor ML models.
+Examples of using Evidently to evaluate, test and monitor AI systems.
+
+# 🧠 (Ongoing) LLM Evaluation Course
+
+10+ Practical tutorials on evaluating large language systems with videos.
+
+📊 [See all course example](/learn/README.md)
+
+📥 [Sign up for the course](https://www.evidentlyai.com/llm-evaluation-course-practice)
 
 ## 📊 Tutorials 
 
 Code tutorials showing specific use cases, Evidently functionality or example dataset analysis. Come with blog posts or detailed explanations. 
 
-If you are new to Evidently, explore the official [Quickstarts](https://docs.evidentlyai.com/get-started) first.
+If you are new to Evidently, explore the official [Quickstarts](https://docs.evidentlyai.com) first.
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
