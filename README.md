@@ -6,7 +6,7 @@ Examples of using Evidently to evaluate, test and monitor AI systems.
 
 10+ Practical tutorials on evaluating large language systems with videos.
 
-📊 [See all course example](/learn/README.md)
+📊 [See all course examples](/learn/README.md)
 
 📥 [Sign up for the course](https://www.evidentlyai.com/llm-evaluation-course-practice)
 
