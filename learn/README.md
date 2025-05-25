@@ -17,5 +17,5 @@ Practical tutorials on evaluating large language systems.
 | **Intro to RAG evaluations** | Part 1 | How to evaluate RAG systems: retrieval, generation quality and synthetic data. | - | [Watch Video](https://www.youtube.com/watch?v=qI2qQfOG0Js&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: RAG evaluations** | Part 2 | How to build a toy RAG application and evaluate correctness and faithfulness. |[Open Notebook](LLMCourse_RAG_Evals.ipynb)  | [Watch Video](https://www.youtube.com/watch?v=jckp5R09Afg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 | **Tutorial: AI agent evaluations** | - | How to build a simple Q&A agent and evaluate tool choice and answer correctness. |[Open Notebook](LLMCourse_Agent_Evals.ipynb)  | [Watch Video](https://www.youtube.com/watch?v=9KMmadw7-jI&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
-| **Tutorial: Adversarial testing** | - | How to run scenario-based risk testing on forbidden topics and brand risks. |[Open Notebook](LLMCourse_Adversarial_Testing.ipynb)  | - |
+| **Tutorial: Adversarial testing** | - | How to run scenario-based risk testing on forbidden topics and brand risks. |[Open Notebook](LLMCourse_Adversarial_Testing.ipynb)  | [Watch Video](https://www.youtube.com/watch?v=tdBj6vafHbg&list=PL9omX6impEuNTr0KGLChHwhvN-q3ZF12d) |
 
