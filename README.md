@@ -18,6 +18,7 @@ If you are new to Evidently, explore the official [Quickstarts](https://docs.evi
 
 Title | Code | Blog | Author | Tags 
 --- | --- | --- | --- | --- 
+How to create a jury of LLM models | [Jupyter notebook](tutorials/LLM_as_a_jury_Example.ipynb) |  - | Evidently team | `llm`, `text_descriptors`
 How to evaluate RAG | [Jupyter notebook](tutorials/rag_metrics.ipynb) |  [Tutorial](https://docs.evidentlyai.com/examples/LLM_rag_evals) | Evidently team | `llm`, `text_descriptors`
 How to run and debug LLM regression tests | [Jupyter notebook](tutorials/Regression_testing_with_debugging_updated.ipynb) |  - | Evidently team | `test_suites`, `llm`, `text_descriptors`
 How to create an LLM judge | [Jupyter notebook](tutorials/LLM_as_a_judge_tutorial_updated.ipynb) |  - | Evidently team |  `llm`, `text_descriptors`
